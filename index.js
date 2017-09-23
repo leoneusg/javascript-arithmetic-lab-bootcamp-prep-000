@@ -21,5 +21,5 @@ function makeInt(n) {
   return (n.toString)
 }
 function makeInt(n) {
-  return parseInt(n)
+  return parseInt('n', 10)
 }
