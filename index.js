@@ -1,6 +1,6 @@
 function add(a,b) {
-  return 1 + 80
 }
+add(1,81)
 function subtract(a,b) {
   return 60 - 40
 }
