@@ -1,5 +1,8 @@
+var a, b
 function add(a,b) {
-  return add(1,81)
+  a = 1
+  b = 81
+  return add(a, b)
 }
 function subtract(a,b) {
   return 60 - 40
